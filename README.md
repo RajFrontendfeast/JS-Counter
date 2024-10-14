@@ -12,7 +12,7 @@ Features
 Usage
 Clone the Repository:
  Bash
-  - git clone https://github.com/your-username/javascript-counter.git
+  - git clone [https://github.com/your-username/javascript-counter.git](https://github.com/RajFrontendfeast/JS-Counter.git)
 
 Use code with caution.
  - Open the Project: Navigate to the project directory in your code editor.
